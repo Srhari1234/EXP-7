@@ -38,7 +38,7 @@ int main()
 ~~~
 # Output: -
 
-![WhatsApp Image 2024-08-06 at 22 43 10_5a07336c](https://github.com/user-attachments/assets/25d8aadb-6136-411a-a32c-e17eb37a7a25)
+<img width="415" alt="image" src="https://github.com/user-attachments/assets/2050b287-4ea4-4bcd-b9bf-94dbe7674155">
 
 # 2. Reversing An Array: 
 ~~~
@@ -81,7 +81,7 @@ int main()
 
 # Output: 
 
-![WhatsApp Image 2024-08-06 at 22 58 37_e5b9c262](https://github.com/user-attachments/assets/89aedb80-645a-4d98-bfbf-12807a15b557)
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/cdf02a7e-9c49-4e4e-a7f3-34c1f28c2fea">
 
 # 3. Creating Input Output: 
 ~~~
@@ -114,7 +114,7 @@ int main() {
 ~~~
 # Output: - 
 
-![WhatsApp Image 2024-08-06 at 23 07 20_f81c60b3](https://github.com/user-attachments/assets/39f79266-b2a4-485f-a435-fa62c5ebfe46)
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/4177a29e-0b49-4552-b9af-55fe873354b6">
 
 # 4. Array Addition And Average: 
 ~~~
@@ -150,7 +150,7 @@ int main()
 ~~~
 # Output: 
 
-![WhatsApp Image 2024-08-06 at 23 11 54_1d35dbd9](https://github.com/user-attachments/assets/a04aebe0-3e51-4840-862e-0fedf272c74b)
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/ae25e6ff-50d6-49c3-995b-22fbb2872a4e">
 
 # 5. Find Max And Min: 
 ~~~
@@ -185,9 +185,9 @@ int main() {
 ~~~
 # Output:  
 
-![WhatsApp Image 2024-08-06 at 23 34 34_1251ecae](https://github.com/user-attachments/assets/5c245bbe-ea60-48b8-bc32-be05dd351e76)
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/5fd41e39-eac9-4710-a897-11885a28b3c3">
 
-# Search: 
+# 6. Search: 
 ~~~
 //Name: Srihari Nair
 //Prn: 23070123131
@@ -228,7 +228,7 @@ int main()
 ~~~
 # Output: 
 
-![WhatsApp Image 2024-08-06 at 23 35 13_03e2b5c5](https://github.com/user-attachments/assets/7b324ece-4e50-4c4d-aa18-a13cb6a476a1)
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/42f31887-14d2-4783-b2b6-e980e790ba4d">
 
 # Conclusion:
 
