@@ -1,10 +1,6 @@
-//Saaj Mulik
-//Prn: 23070123109
+//Srihari Nair
+//Prn: 23070123131
 //experiment 7: Arrays And Strings 
-
-//Sreejita Bhardwaj 
-//Prn: 23070123130 
-//experiment 7: arrays and strings 
 
 #include<iostream>
 using namespace std;
