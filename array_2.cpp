@@ -1,5 +1,5 @@
-//Saaj Mulik
-//Prn: 23070123109
+//Srihari Nair
+//Prn: 23070123131
 //experiment 7: Arrays And Strings 
 
 #include<iostream>
