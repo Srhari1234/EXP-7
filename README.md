@@ -4,11 +4,7 @@
 To study and implement C++ Arrays and Strings
 
 # Theory: 
-An array stores a fixed-size sequential collection of elements of the same type. All arrays consist of contiguous memory locations. 
-The lowest address corresponds to the first element and the highest address to the last element
-To declare an array in C++, we must specify the type of elements and the number of elements required by an array −: type arrayName [ array_size ]
-You can initialize C++ array elements either one by one or using a single statement as follows −: int arr[5] = {1000, 2, 3, 17, 50}
-Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+In C++, arrays are collections of elements of the same type stored in contiguous memory locations, accessible via indices. Arrays have a fixed size, defined at declaration, and elements are stored sequentially in memory, enabling efficient access. Strings in C++ can be managed as C-style strings, which are arrays of characters terminated by a null character ('\0'), or more flexibly using the string class from the Standard Library. The string class offers dynamic sizing, robust built-in functions, and automatic memory management, making it a safer and more convenient option for handling text.
 
 # 1. Creating Array Declaration: 
 ~~~
