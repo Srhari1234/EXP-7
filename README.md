@@ -6,6 +6,9 @@ To study and implement C++ Arrays and Strings
 # Theory: 
 In C++, arrays are collections of elements of the same type stored in contiguous memory locations, accessible via indices. Arrays have a fixed size, defined at declaration, and elements are stored sequentially in memory, enabling efficient access. Strings in C++ can be managed as C-style strings, which are arrays of characters terminated by a null character ('\0'), or more flexibly using the string class from the Standard Library. The string class offers dynamic sizing, robust built-in functions, and automatic memory management, making it a safer and more convenient option for handling text.
 
+![WhatsApp Image 2024-08-08 at 22 51 55_0e47c5a9](https://github.com/user-attachments/assets/cd836d33-871e-49d9-bb73-d11d516d50b8)
+
+
 # 1. Creating Array Declaration: 
 ~~~
 //Name: Srihari Nair
