@@ -229,6 +229,122 @@ int main()
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/42f31887-14d2-4783-b2b6-e980e790ba4d">
 
-# Conclusion:
+# 7. String:
+~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
+#include<iostream>
+using namespace std;
+int main()
+{
+    string a; 
+    cout<<"enter a string: ";
+    cin>>a;
+    cout<<"the string is: "<<a<<endl;
+    return 0;
+}
+~~~
 
+# Output: 
+
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/d5425872-2c32-49d0-8c5a-3e3c367bfeb7">
+
+# 8. String Concaternation:
+~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    string a,b,c; 
+    cout<<"enter a string a: ";
+    cin>>a;
+    cout<<"enter a string b: ";
+    cin>>b;
+
+    c=a+b;
+    cout<<"concaternation of the strings is: "<<c; 
+
+    return 0;
+}
+~~~
+# Output:
+
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/2c57200c-5b7a-4b96-a99c-0317ec6e4ede">
+
+# 9. String Reversal:
+~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+    string a;
+    int i;
+    cout<<"enter a string: ";
+    getline(cin,a);
+
+    for(i=a.length()-1;i>=0;i--)
+    {
+        cout<<a[i ];
+    }
+
+    return 0; 
+}
+~~~
+# Output:
+
+<img width="568" alt="image" src="https://github.com/user-attachments/assets/f548168a-bf1b-4037-a603-67697267c81e">
+
+# 10. String Palindrome: 
+~~~
+//Name: Srihari Nair
+//Prn: 23070123131
+//Class: EnTC B-2
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+    string a;
+    cout << "Enter a string: ";
+    cin >> a;
+    int n = a.length();
+    int var = 1;
+    
+    for(int i = 0; i < n / 2; i++)
+    {
+        if(a[i] != a[n - i - 1])
+        {
+            var = 0;
+            break;
+        }
+    }
+    
+    if (var == 1)
+    {
+        cout << "The string is a palindrome." << endl;
+    }
+    else
+    {
+        cout << "The string is not a palindrome." << endl;
+    }
+
+    return 0;
+}
+~~~
+# Output:
+
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/2823aacf-bc30-413f-b4c9-20dc53bf1202">
+
+# Conclusion:
 Mastering arrays and strings in C++ is crucial for efficient data manipulation. Arrays allow you to store elements of the same type in contiguous memory locations, making data management straightforward. Strings, which handle sequences of characters, can be managed using either C-strings or the more versatile std::string class from the Standard Library. While std::string offers more functionality and ease of use, understanding C-strings is important for low-level programming. Practicing with both arrays and strings will build a solid foundation and enhance your overall proficiency in C++.
